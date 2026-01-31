@@ -5,11 +5,6 @@ This project focuses on recreating the look and layout of Spotify’s web player
 
 ---
 
-## 🚀 Live Preview
-👉 (Add GitHub Pages link here later)
-
----
-
 ## 📸 Preview
 ![Spotify Clone Preview](./assets/card1img.jpeg)
 
